@@ -1,2 +1,6 @@
+# rust ignore
 *.exe
 *.pdb
+*.lock
+*.toml
+target*
